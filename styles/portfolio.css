@@ -105,7 +105,8 @@ nav .menu a {
 }
 
 #banner .banner-content h1 {
-  font-size: 85px;
+  font-size: 60px;
+  letter-spacing: -3px;
   font-weight: bold;
   color: #181818;
   margin-bottom: 20px;
