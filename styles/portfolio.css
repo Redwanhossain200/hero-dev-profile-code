@@ -297,7 +297,7 @@ footer .footer-container {
   font-size: large;
 }
 
-/* ===== Button Hover Animation ===== */
+/* Button Hover Animation */
 button,
 .btn {
   transition: all 0.35s ease;
